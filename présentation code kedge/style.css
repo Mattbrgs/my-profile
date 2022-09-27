@@ -1,0 +1,40 @@
+h1	{
+	color: darkred;
+}
+
+h2	{
+
+}
+body	
+{ text-align: center;
+	background-color: lightgrey ;  
+ font-family: 'Poppins', sans-serif;
+   ;}
+
+
+   i { 
+   	color: black;
+   	font-size: 42px;
+   }
+ div	{
+ 	width: 800px;
+    padding: 16px;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 32px;
+    box box-shadow:rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+ }
+
+ .btn-brown {
+ 	padding:10px 16px;
+ 	text-decoration: none;
+ 	background-color: brown;
+ 	color: white;
+ 	border-radius: 4px;
+ 	display: inline-block;
+ }
+
+.btn-brown:hover {
+	background-color: red;
+	
+}
